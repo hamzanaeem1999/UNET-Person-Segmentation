@@ -1,2 +1,2 @@
-# UNET Person Segmentation
- UNET used for human segmentation . You can tune it to get more accuracy
+#UNET Person Segmentation
+UNET used for person segmentation.Implemented it using its official paper. You can tune it to get more accuracy.
